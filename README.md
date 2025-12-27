@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I'm Deji Gold
 
-<!--
-**Dejidev-web/Dejidev-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Laravel developer with real-world experience building:
+- Investment platforms (Crypto & Real Estate)
+- Cooperative & savings systems
+- Wallet, referral & payment integrations (Paystack)
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- Laravel, PHP
+- MySQL
+- REST APIs
+- Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 What I’m working on
+- Automated cooperative management platform
+- Fintech & investment solutions
+
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/akorede-tunde-948961290/) | [Email](akoredeabdulbasit816@gmail.com)
